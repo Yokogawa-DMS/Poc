@@ -1,0 +1,26 @@
+<svg id="Extension_table_Web_Hover" data-name="Extension table/Web/Hover" xmlns="http://www.w3.org/2000/svg" width="1236" height="52" viewBox="0 0 1236 52">
+  <g id="コンポーネント_8_1" data-name="コンポーネント 8 – 1">
+    <g id="コンポーネント_9_1" data-name="コンポーネント 9 – 1">
+      <g id="長方形_200" data-name="長方形 200" fill="#f3f3f3" stroke="#ececec" stroke-width="1">
+        <rect width="1236" height="52" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1235" height="51" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <text id="Pump_group" data-name="Pump group" transform="translate(77 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Pump group</tspan></text>
+  <text id="Group" transform="translate(334 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Group</tspan></text>
+  <text id="_12_Feb_2020" data-name="12 Feb, 2020" transform="translate(632 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">12 Feb, 2020</tspan></text>
+  <g id="Dropdown_arrow_OFF" data-name="Dropdown arrow/OFF" transform="translate(14.836 31.02) rotate(-90)">
+    <g id="コンポーネント_18_1" data-name="コンポーネント 18 – 1">
+      <path id="パス_296" data-name="パス 296" d="M1803.616,4362.342l5.184,4.609-5.184,4.247" transform="translate(4371.198 -1803.616) rotate(90)" fill="none" stroke="#5b7284" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="Check_box_OFF" data-name="Check box/OFF" transform="translate(34 20)">
+    <g id="Check_box" data-name="Check box" transform="translate(-11 -3)">
+      <g id="長方形_40" data-name="長方形 40" transform="translate(11 3)" fill="none" stroke="#2d4650" stroke-miterlimit="10" stroke-width="1">
+        <rect width="14" height="14" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13" height="13" rx="1.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

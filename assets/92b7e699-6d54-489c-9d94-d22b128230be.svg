@@ -1,0 +1,17 @@
+<svg id="Table_Header_Mobile" data-name="Table/Header/Mobile" xmlns="http://www.w3.org/2000/svg" width="734" height="56" viewBox="0 0 734 56">
+  <path id="パス_13932" data-name="パス 13932" d="M2.686,0H731.314C732.8,0,734,1.791,734,4V56H0V4C0,1.791,1.2,0,2.686,0Z" fill="#dfe4e8"/>
+  <text id="Name" transform="translate(76 32)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Name</tspan></text>
+  <text id="Type" transform="translate(219 32)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Type</tspan></text>
+  <text id="Date" transform="translate(326 32)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Date</tspan></text>
+  <g id="Checkbox" transform="translate(-33 -134)">
+    <rect id="長方形_4657" data-name="長方形 4657" width="48" height="52" transform="translate(48 136)" fill="none"/>
+    <g id="Check_box" data-name="Check box" transform="translate(65 155)">
+      <g id="Check_box-2" data-name="Check box">
+        <g id="長方形_40" data-name="長方形 40" fill="none" stroke="#2d4650" stroke-miterlimit="10" stroke-width="1">
+          <rect width="14" height="14" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="13" height="13" rx="1.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

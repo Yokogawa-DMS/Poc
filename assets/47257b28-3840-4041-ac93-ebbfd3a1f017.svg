@@ -1,0 +1,7 @@
+<svg id="Chip_Hover" data-name="Chip/Hover" xmlns="http://www.w3.org/2000/svg" width="66" height="24" viewBox="0 0 66 24">
+  <g id="長方形_4346" data-name="長方形 4346" fill="#f3f3f3" stroke="#ececec" stroke-width="1">
+    <rect width="66" height="24" rx="12" stroke="none"/>
+    <rect x="0.5" y="0.5" width="65" height="23" rx="11.5" fill="none"/>
+  </g>
+  <text id="Normal" transform="translate(33 17)" fill="#5b7284" font-size="12" font-family="NotoSans-Regular, Noto Sans"><tspan x="-21.192" y="0">Normal</tspan></text>
+</svg>

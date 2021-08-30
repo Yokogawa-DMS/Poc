@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Ellipse" x="10" y="0" width="72" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Button_backtotop_Hover" data-name="Button/backtotop/Hover" transform="translate(0 4)">
+    <text id="Back_to_Top" data-name="Back to Top" transform="translate(46 83)" fill="#1d7ad6" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="-45.952" y="0">Back to Top</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, -4)" filter="url(#Ellipse)">
+      <path id="Ellipse-2" data-name="Ellipse" d="M30,0A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" transform="translate(16 4)" fill="#1d7ad6"/>
+    </g>
+    <path id="Icon_material-arrow-upward" data-name="Icon material-arrow-upward" d="M6,18l2.115,2.115,8.385-8.37V30h3V11.745l8.37,8.385L30,18,18,6Z" transform="translate(28 12)" fill="#f3f3f3"/>
+  </g>
+</svg>

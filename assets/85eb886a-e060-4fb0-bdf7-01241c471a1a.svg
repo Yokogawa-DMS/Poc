@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="369" height="98" viewBox="0 0 369 98">
+  <defs>
+    <filter id="BG" x="0" y="0" width="98" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Header_Mobile" data-name="Header/Mobile" transform="translate(9 6)">
+    <rect id="Rectangle_4107" data-name="Rectangle 4107" width="360" height="80" fill="#004f9b"/>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#BG)">
+      <path id="BG-2" data-name="BG" d="M0,0H80V80H0Z" transform="translate(9 6)" fill="#004f9b"/>
+    </g>
+    <g id="Group_5325" data-name="Group 5325" transform="translate(0 5)">
+      <text id="Product_Name" data-name="Product Name" transform="translate(108 45)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="24" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Product Name</tspan></text>
+    </g>
+    <g id="Icon_humburger" data-name="Icon/humburger" transform="translate(31 35.155)">
+      <path id="Path_13854" data-name="Path 13854" d="M71.65-4.874H87.478a1.075,1.075,0,0,0,.772-.314,1.075,1.075,0,0,0,.315-.772,1.1,1.1,0,0,0-1.087-1.085H71.65A1.1,1.1,0,0,0,70.565-5.96,1.1,1.1,0,0,0,71.65-4.874Z" transform="translate(-70.565 7.045)" fill="#fff"/>
+      <path id="Path_13855" data-name="Path 13855" d="M87.478-2.786H71.65A1.1,1.1,0,0,0,70.565-1.7,1.1,1.1,0,0,0,71.65-.614H87.478a1.075,1.075,0,0,0,.772-.314,1.075,1.075,0,0,0,.315-.772,1.1,1.1,0,0,0-1.087-1.086Z" transform="translate(-70.565 7.045)" fill="#fff"/>
+      <path id="Path_13856" data-name="Path 13856" d="M87.478,1.473H71.65a1.1,1.1,0,0,0-1.085,1.086A1.1,1.1,0,0,0,71.65,3.645H87.478a1.075,1.075,0,0,0,1.087-1.086A1.1,1.1,0,0,0,87.478,1.473Z" transform="translate(-70.565 7.045)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

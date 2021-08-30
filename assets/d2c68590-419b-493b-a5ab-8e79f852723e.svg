@@ -1,0 +1,12 @@
+<svg id="Sort_upward" data-name="Sort/upward" xmlns="http://www.w3.org/2000/svg" width="164" height="56" viewBox="0 0 164 56">
+  <path id="長方形_4334" data-name="長方形 4334" d="M4,0H160a4,4,0,0,1,4,4V56a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" fill="#dfe4e8"/>
+  <text id="Status" transform="translate(19.519 34)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Status</tspan></text>
+  <g id="Filter" transform="translate(96 20)">
+    <g id="Filter-2" data-name="Filter" transform="translate(-8 -8)">
+      <path id="パス_13998" data-name="パス 13998" d="M20.221,4.647a.8.8,0,0,0-.73-.517H5.068a.794.794,0,0,0-.72.511.86.86,0,0,0,.145.889L9.67,11.4v7.887a.82.82,0,0,0,.788.844h.023a.78.78,0,0,0,.363-.09l3.637-2.065a.842.842,0,0,0,.42-.733V11.4l5.175-5.872A.858.858,0,0,0,20.221,4.647Zm-9.178,5.848L6.9,5.819H17.661l-4.142,4.687a.87.87,0,0,0-.216.564v5.675l-2.043,1.14V11.056A.866.866,0,0,0,11.043,10.495Z" transform="translate(3.717 3.87)" fill="#2d4650"/>
+    </g>
+  </g>
+  <g id="Sort" transform="translate(128 20)">
+    <path id="パス_13996" data-name="パス 13996" d="M20.084,12.513h0a1.036,1.036,0,0,1-1.474,0L13.453,7.487V18.974A.982.982,0,0,1,12.4,20h0a.982.982,0,0,1-1.053-1.026V7.487L6.189,12.513a1.036,1.036,0,0,1-1.474,0h0a.974.974,0,0,1,0-1.436l6.947-6.769a1.036,1.036,0,0,1,1.474,0l6.947,6.769A.974.974,0,0,1,20.084,12.513Z" transform="translate(-4.4 -4)" fill="#1d7ad6"/>
+  </g>
+</svg>

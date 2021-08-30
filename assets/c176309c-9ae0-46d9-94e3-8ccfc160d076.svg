@@ -1,0 +1,140 @@
+<svg id="Extension_table_Mobile_Open" data-name="Extension table/Mobile/Open" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1236" height="257" viewBox="0 0 1236 257">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1236" height="154" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="コンポーネント_9_1" data-name="コンポーネント 9 – 1">
+    <g id="長方形_200" data-name="長方形 200" fill="#fff" stroke="#ececec" stroke-width="1">
+      <rect width="642" height="52" stroke="none"/>
+      <rect x="0.5" y="0.5" width="641" height="51" fill="none"/>
+    </g>
+    <path id="Path_13930" data-name="Path 13930" d="M0,0H633.015" transform="translate(0 52)" fill="none" stroke="#bec8d2" stroke-width="0.5"/>
+  </g>
+  <text id="Pump_group" data-name="Pump group" transform="translate(75 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Pump group</tspan></text>
+  <text id="Group" transform="translate(219 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Group</tspan></text>
+  <g id="Dropdown_arrow_OFF" data-name="Dropdown arrow/OFF" transform="translate(12.836 22.164)">
+    <g id="コンポーネント_18_1" data-name="コンポーネント 18 – 1" transform="translate(0 8.856) rotate(-90)">
+      <path id="パス_296" data-name="パス 296" d="M1803.616,4362.342l5.184,4.609-5.184,4.247" transform="translate(4371.198 -1803.616) rotate(90)" fill="none" stroke="#1d7ad6" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="Check_box_OFF" data-name="Check box/OFF" transform="translate(32 20)">
+    <g id="Check_box" data-name="Check box" transform="translate(-11 -3)">
+      <g id="長方形_40" data-name="長方形 40" transform="translate(11 3)" fill="none" stroke="#2d4650" stroke-miterlimit="10" stroke-width="1">
+        <rect width="14" height="14" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13" height="13" rx="1.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <text id="_12_Feb_2020" data-name="12 Feb, 2020" transform="translate(317 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">12 Feb, 2020</tspan></text>
+  <g id="グループ_6901" data-name="グループ 6901" transform="translate(-22 -158)">
+    <g id="リピートグリッド_112" data-name="リピートグリッド 112" transform="translate(22 261)" clip-path="url(#clip-path)">
+      <g id="グループ_6869" data-name="グループ 6869" transform="translate(-23 -262)">
+        <g id="グループ_5877" data-name="グループ 5877" transform="translate(23 262)">
+          <g id="グループ_5876" data-name="グループ 5876">
+            <g id="パス_14024" data-name="パス 14024" transform="translate(0 -48)" fill="#fbfbfb">
+              <path d="M 641.22265625 99.5 L 0.4999947845935822 99.5 L 0.4999947845935822 48.5 L 641.22265625 48.5 L 641.22265625 99.5 Z" stroke="none"/>
+              <path d="M 1 49 L 1 99 L 640.72265625 99 L 640.72265625 49 L 1 49 M 0 48 L 641.72265625 48 L 641.72265625 100 L 0 100 L 0 48 Z" stroke="none" fill="#ececec"/>
+            </g>
+          </g>
+        </g>
+        <text id="Pump1114" transform="translate(103 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Pump1114</tspan></text>
+        <text id="Yokogawa" transform="translate(243 294)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Yokogawa</tspan></text>
+        <text id="_23.5" data-name="23.5" transform="translate(510 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">23.5</tspan></text>
+        <g id="Chip_Normal" data-name="Chip/Normal" transform="translate(380 276)">
+          <rect id="長方形_4346" data-name="長方形 4346" width="70" height="24" rx="12" fill="#00cccb"/>
+          <text id="Normal" transform="translate(35 17)" fill="#fff" font-size="12" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="-22.662" y="0">Normal</tspan></text>
+        </g>
+      </g>
+      <g id="グループ_6869-2" data-name="グループ 6869" transform="translate(-23 -211)">
+        <g id="グループ_5877-2" data-name="グループ 5877" transform="translate(23 262)">
+          <g id="グループ_5876-2" data-name="グループ 5876">
+            <g id="パス_14024-2" data-name="パス 14024" transform="translate(0 -48)" fill="#fbfbfb">
+              <path d="M 641.22265625 99.5 L 0.4999947845935822 99.5 L 0.4999947845935822 48.5 L 641.22265625 48.5 L 641.22265625 99.5 Z" stroke="none"/>
+              <path d="M 1 49 L 1 99 L 640.72265625 99 L 640.72265625 49 L 1 49 M 0 48 L 641.72265625 48 L 641.72265625 100 L 0 100 L 0 48 Z" stroke="none" fill="#ececec"/>
+            </g>
+          </g>
+        </g>
+        <text id="Pump1113" transform="translate(103 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Pump1113</tspan></text>
+        <text id="Yokogawa-2" data-name="Yokogawa" transform="translate(243 294)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Yokogawa</tspan></text>
+        <text id="_23.5-2" data-name="23.5" transform="translate(510 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">23.5</tspan></text>
+        <g id="Chip_Normal-2" data-name="Chip/Normal" transform="translate(380 276)">
+          <rect id="長方形_4346-2" data-name="長方形 4346" width="70" height="24" rx="12" fill="#00cccb"/>
+          <text id="Normal-2" data-name="Normal" transform="translate(35 17)" fill="#fff" font-size="12" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="-22.662" y="0">Normal</tspan></text>
+        </g>
+      </g>
+      <g id="グループ_6869-3" data-name="グループ 6869" transform="translate(-23 -160)">
+        <g id="グループ_5877-3" data-name="グループ 5877" transform="translate(23 262)">
+          <g id="グループ_5876-3" data-name="グループ 5876">
+            <g id="パス_14024-3" data-name="パス 14024" transform="translate(0 -48)" fill="#fbfbfb">
+              <path d="M 641.22265625 99.5 L 0.4999947845935822 99.5 L 0.4999947845935822 48.5 L 641.22265625 48.5 L 641.22265625 99.5 Z" stroke="none"/>
+              <path d="M 1 49 L 1 99 L 640.72265625 99 L 640.72265625 49 L 1 49 M 0 48 L 641.72265625 48 L 641.72265625 100 L 0 100 L 0 48 Z" stroke="none" fill="#ececec"/>
+            </g>
+          </g>
+        </g>
+        <text id="Pump1112" transform="translate(103 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Pump1112</tspan></text>
+        <text id="Yokogawa-3" data-name="Yokogawa" transform="translate(243 294)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Yokogawa</tspan></text>
+        <text id="_23.5-3" data-name="23.5" transform="translate(510 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">23.5</tspan></text>
+        <g id="Chip_Normal-3" data-name="Chip/Normal" transform="translate(380 276)">
+          <rect id="長方形_4346-3" data-name="長方形 4346" width="70" height="24" rx="12" fill="#00cccb"/>
+          <text id="Normal-3" data-name="Normal" transform="translate(35 17)" fill="#fff" font-size="12" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="-22.662" y="0">Normal</tspan></text>
+        </g>
+      </g>
+      <g id="グループ_6869-4" data-name="グループ 6869" transform="translate(-23 -109)">
+        <g id="グループ_5877-4" data-name="グループ 5877" transform="translate(23 262)">
+          <g id="グループ_5876-4" data-name="グループ 5876">
+            <g id="パス_14024-4" data-name="パス 14024" transform="translate(0 -48)" fill="#fbfbfb">
+              <path d="M 641.22265625 99.5 L 0.4999947845935822 99.5 L 0.4999947845935822 48.5 L 641.22265625 48.5 L 641.22265625 99.5 Z" stroke="none"/>
+              <path d="M 1 49 L 1 99 L 640.72265625 99 L 640.72265625 49 L 1 49 M 0 48 L 641.72265625 48 L 641.72265625 100 L 0 100 L 0 48 Z" stroke="none" fill="#ececec"/>
+            </g>
+          </g>
+        </g>
+        <text id="Pump1111" transform="translate(103 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Pump1111</tspan></text>
+        <text id="Yokogawa-4" data-name="Yokogawa" transform="translate(243 294)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Yokogawa</tspan></text>
+        <text id="_23.5-4" data-name="23.5" transform="translate(510 293.754)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">23.5</tspan></text>
+        <g id="Chip_Normal-4" data-name="Chip/Normal" transform="translate(380 276)">
+          <rect id="長方形_4346-4" data-name="長方形 4346" width="70" height="24" rx="12" fill="#00cccb"/>
+          <text id="Normal-4" data-name="Normal" transform="translate(35 17)" fill="#fff" font-size="12" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="-22.662" y="0">Normal</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="グループ_6891" data-name="グループ 6891">
+      <g id="グループ_6890" data-name="グループ 6890">
+        <path id="パス_14308" data-name="パス 14308" d="M641.535,3.714v52H0v-52S641.544,3.882,641.535,3.714Z" transform="translate(22 206.286)" fill="#f3f3f3"/>
+        <text id="Name" transform="translate(100 243)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Name</tspan></text>
+        <text id="Supplier" transform="translate(241 243)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Supplier</tspan></text>
+        <text id="Status" transform="translate(388 243)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Status</tspan></text>
+        <text id="PV" transform="translate(509 243)" fill="#2d4650" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">PV</tspan></text>
+        <g id="Sort" transform="translate(179 254) rotate(180)">
+          <path id="パス_13996" data-name="パス 13996" d="M20.084,12.513h0a1.036,1.036,0,0,1-1.474,0L13.453,7.487V18.974A.982.982,0,0,1,12.4,20h0a.982.982,0,0,1-1.053-1.026V7.487L6.189,12.513a1.036,1.036,0,0,1-1.474,0h0a.974.974,0,0,1,0-1.436l6.947-6.769a1.036,1.036,0,0,1,1.474,0l6.947,6.769A.974.974,0,0,1,20.084,12.513Z" transform="translate(-27.4 4)" fill="#1d7ad6"/>
+        </g>
+        <g id="Filter" transform="translate(157 230)">
+          <g id="Filter-2" data-name="Filter" transform="translate(-8 -8)">
+            <path id="パス_13998" data-name="パス 13998" d="M20.221,4.647a.8.8,0,0,0-.73-.517H5.068a.794.794,0,0,0-.72.511.86.86,0,0,0,.145.889L9.67,11.4v7.887a.82.82,0,0,0,.788.844h.023a.78.78,0,0,0,.363-.09l3.637-2.065a.842.842,0,0,0,.42-.733V11.4l5.175-5.872A.858.858,0,0,0,20.221,4.647Zm-9.178,5.848L6.9,5.819H17.661l-4.142,4.687a.87.87,0,0,0-.216.564v5.675l-2.043,1.14V11.056A.866.866,0,0,0,11.043,10.495Z" transform="translate(3.717 3.87)" fill="#2d4650"/>
+          </g>
+        </g>
+        <g id="Filter-3" data-name="Filter" transform="translate(320 230)">
+          <g id="Filter-4" data-name="Filter" transform="translate(-8 -8)">
+            <path id="パス_13998-2" data-name="パス 13998" d="M20.221,4.647a.8.8,0,0,0-.73-.517H5.068a.794.794,0,0,0-.72.511.86.86,0,0,0,.145.889L9.67,11.4v7.887a.82.82,0,0,0,.788.844h.023a.78.78,0,0,0,.363-.09l3.637-2.065a.842.842,0,0,0,.42-.733V11.4l5.175-5.872A.858.858,0,0,0,20.221,4.647Zm-9.178,5.848L6.9,5.819H17.661l-4.142,4.687a.87.87,0,0,0-.216.564v5.675l-2.043,1.14V11.056A.866.866,0,0,0,11.043,10.495Z" transform="translate(3.717 3.87)" fill="#2d4650"/>
+          </g>
+        </g>
+      </g>
+      <g id="Filter-5" data-name="Filter" transform="translate(547 230)">
+        <g id="Filter-6" data-name="Filter" transform="translate(-8 -8)">
+          <path id="パス_13998-3" data-name="パス 13998" d="M20.221,4.647a.8.8,0,0,0-.73-.517H5.068a.794.794,0,0,0-.72.511.86.86,0,0,0,.145.889L9.67,11.4v7.887a.82.82,0,0,0,.788.844h.023a.78.78,0,0,0,.363-.09l3.637-2.065a.842.842,0,0,0,.42-.733V11.4l5.175-5.872A.858.858,0,0,0,20.221,4.647Zm-9.178,5.848L6.9,5.819H17.661l-4.142,4.687a.87.87,0,0,0-.216.564v5.675l-2.043,1.14V11.056A.866.866,0,0,0,11.043,10.495Z" transform="translate(3.717 3.87)" fill="#2d4650"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text id="Pump_group-2" data-name="Pump group" transform="translate(75 32)" fill="#1d7ad6" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Pump group</tspan></text>
+  <text id="Group-2" data-name="Group" transform="translate(219 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">Group</tspan></text>
+  <g id="Check_box_OFF-2" data-name="Check box/OFF" transform="translate(32 20)">
+    <g id="Check_box-2" data-name="Check box" transform="translate(-11 -3)">
+      <g id="長方形_40-2" data-name="長方形 40" transform="translate(11 3)" fill="none" stroke="#2d4650" stroke-miterlimit="10" stroke-width="1">
+        <rect width="14" height="14" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13" height="13" rx="1.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <text id="_12_Feb_2020-2" data-name="12 Feb, 2020" transform="translate(317 32)" fill="#2d4650" font-size="16" font-family="NotoSans, Noto Sans"><tspan x="0" y="0">12 Feb, 2020</tspan></text>
+</svg>
