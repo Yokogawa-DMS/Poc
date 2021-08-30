@@ -1,0 +1,381 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-08-30T07:55:10.662Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "a8c2c9b7-5de6-4449-b608-2f7472cde199",
+      "name": "Noto Sans — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "09bc2eed-020f-4bef-aa38-8b773c213706",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "a8c2c9b7-5de6-4449-b608-2f7472cde199",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "a8c2c9b7-5de6-4449-b608-2f7472cde199",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "a8c2c9b7-5de6-4449-b608-2f7472cde199",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "7033d655-3a8c-4d97-831a-3db4d96476b8",
+      "name": "Noto Sans — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "031efa57-903f-487c-9825-82a7c9b5113f",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "7033d655-3a8c-4d97-831a-3db4d96476b8",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "7033d655-3a8c-4d97-831a-3db4d96476b8",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "7033d655-3a8c-4d97-831a-3db4d96476b8",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "8d530ea1-94f2-446f-93a1-9c5124bbef6d",
+      "name": "Noto Sans — 14pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "bf22388b-d654-4136-a888-89c9dc2f3711",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "8d530ea1-94f2-446f-93a1-9c5124bbef6d",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "8d530ea1-94f2-446f-93a1-9c5124bbef6d",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "8d530ea1-94f2-446f-93a1-9c5124bbef6d",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "89a0aa1d-915d-4914-b89a-084b176394ef",
+      "name": "Noto Sans — 16pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "c9992212-cf46-40e5-8bfc-06f2f4c4fe6d",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "89a0aa1d-915d-4914-b89a-084b176394ef",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "89a0aa1d-915d-4914-b89a-084b176394ef",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "89a0aa1d-915d-4914-b89a-084b176394ef",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "46fbee81-451d-4535-803d-235be3e2a808",
+      "name": "Noto Sans — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "082efc8f-ba13-411b-a113-c3443ffcf240",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "46fbee81-451d-4535-803d-235be3e2a808",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "46fbee81-451d-4535-803d-235be3e2a808",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "46fbee81-451d-4535-803d-235be3e2a808",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "b2ba918c-ba41-40ff-b620-5875701e1868",
+      "name": "Noto Sans — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "34da217c-fa76-440f-a99e-c9071611b483",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "b2ba918c-ba41-40ff-b620-5875701e1868",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "b2ba918c-ba41-40ff-b620-5875701e1868",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "b2ba918c-ba41-40ff-b620-5875701e1868",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "7584cc90-5746-46a3-af4a-e0851e8a115a",
+      "name": "Noto Sans — 16pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "72696a99-50ff-48f2-ba13-c3b6f42d01be",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "7584cc90-5746-46a3-af4a-e0851e8a115a",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "7584cc90-5746-46a3-af4a-e0851e8a115a",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "7584cc90-5746-46a3-af4a-e0851e8a115a",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "ba1ac545-af51-4ba5-bfe7-88bee6c268d2",
+      "name": "List/body",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "a0753ddf-ba30-4bcd-ae01-b8c561b0ce38",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ba1ac545-af51-4ba5-bfe7-88bee6c268d2",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "ba1ac545-af51-4ba5-bfe7-88bee6c268d2",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "ba1ac545-af51-4ba5-bfe7-88bee6c268d2",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d2e49037-ea42-4557-a894-b5a039404d3d",
+      "name": "Noto Sans — 14pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "93d0660e-4834-46a7-ae3d-df5effb3ee06",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d2e49037-ea42-4557-a894-b5a039404d3d",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "d2e49037-ea42-4557-a894-b5a039404d3d",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "d2e49037-ea42-4557-a894-b5a039404d3d",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c073fa10-df86-4e9c-8a5f-0da1710f71f2",
+      "name": "List/Header",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "8794c8b4-bbc9-45cb-9ba4-ef522f9a8d8e",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c073fa10-df86-4e9c-8a5f-0da1710f71f2",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "c073fa10-df86-4e9c-8a5f-0da1710f71f2",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "c073fa10-df86-4e9c-8a5f-0da1710f71f2",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "25c267f6-a468-48f7-a6c1-eecc7e5a6af7",
+      "name": "Header",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/4dff1063-8ac6-4fb5-638b-30e8e1fd7024",
+        "id": "de6da1db-63bc-4c11-a8f5-617e3076eb77",
+        "last_sync": "2021-08-30T07:55:10.658Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "25c267f6-a468-48f7-a6c1-eecc7e5a6af7",
+          "type": "custom",
+          "value": "Noto Sans",
+          "key": "family"
+        },
+        {
+          "id": "25c267f6-a468-48f7-a6c1-eecc7e5a6af7",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "25c267f6-a468-48f7-a6c1-eecc7e5a6af7",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}
