@@ -1,0 +1,74 @@
+{
+  "font": {
+    "Noto Sans — 12pt": {
+      "family": {
+        "value": "Noto Sans"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Noto Sans — 14pt": {
+      "family": {
+        "value": "Noto Sans"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Noto Sans — 16pt": {
+      "family": {
+        "value": "Noto Sans"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "List/body": {
+      "family": {
+        "value": "Noto Sans"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "List/Header": {
+      "family": {
+        "value": "Noto Sans"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Header": {
+      "family": {
+        "value": "Noto Sans"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Noto Sans — 12pt": {
+        "value": "12"
+      },
+      "Noto Sans — 14pt": {
+        "value": "14"
+      },
+      "Noto Sans — 16pt": {
+        "value": "16"
+      },
+      "List/body": {
+        "value": "16"
+      },
+      "List/Header": {
+        "value": "16"
+      },
+      "Header": {
+        "value": "24"
+      }
+    }
+  }
+}

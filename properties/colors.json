@@ -1,0 +1,31 @@
+{
+  "color": {
+    "Primary color/black": {
+      "value": "#000000ff"
+    },
+    "Primary color/blue gray": {
+      "value": "#5B7284ff"
+    },
+    "Secondary color/blue": {
+      "value": "#1D7AD6ff"
+    },
+    "Background": {
+      "value": "#F3F3F3ff"
+    },
+    "Primary color/white": {
+      "value": "#FFFFFFff"
+    },
+    "LIne": {
+      "value": "#ECECECff"
+    },
+    "Primary color/maintext": {
+      "value": "#2D4650ff"
+    },
+    "Table header": {
+      "value": "#DFE4E8ff"
+    },
+    "Primary color/blue": {
+      "value": "#004F9Bff"
+    }
+  }
+}

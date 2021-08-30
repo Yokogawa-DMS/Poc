@@ -1,0 +1,34 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 30 Aug 2021 08:40:34 GMT
+ */
+
+:root {
+  --primary-color-black: #000000;
+  --primary-color-blue-gray: #5b7284;
+  --secondary-color-blue: #1d7ad6;
+  --background: #f3f3f3;
+  --primary-color-white: #ffffff;
+  --l-ine: #ececec;
+  --primary-color-maintext: #2d4650;
+  --table-header: #dfe4e8;
+  --primary-color-blue: #004f9b;
+  --noto-sans-12-pt-family: Noto Sans;
+  --noto-sans-12-pt-weight: Regular;
+  --noto-sans-14-pt-family: Noto Sans;
+  --noto-sans-14-pt-weight: Regular;
+  --noto-sans-16-pt-family: Noto Sans;
+  --noto-sans-16-pt-weight: Bold;
+  --list-body-family: Noto Sans;
+  --list-body-weight: Regular;
+  --list-header-family: Noto Sans;
+  --list-header-weight: Bold;
+  --header-family: Noto Sans;
+  --header-weight: Bold;
+  --noto-sans-12-pt-size: 12rem;
+  --noto-sans-14-pt-size: 14rem;
+  --noto-sans-16-pt-size: 16rem;
+  --list-body-size: 16rem;
+  --list-header-size: 16rem;
+  --header-size: 24rem;
+}
